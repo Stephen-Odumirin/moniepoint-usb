@@ -195,3 +195,5 @@ class _UsbTerminalScreenState extends State<UsbTerminalScreen> {
     );
   }
 }
+
+//https://github.com/SahilSharma2710/flutter_libserial_port_example.git
